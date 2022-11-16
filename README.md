@@ -2,7 +2,7 @@
 
 I'm **Subrat Kumar Pattanaik**. I am a Computer Science graduate 🎓 who loves (please imagine a hand with index finger and thumb crossed emoji here) to spend part 🌗 of his time ⌚ building logic 💡 for various problems 💥 and explaining (coding 👨‍💻) them to his digital friends (a.k.a. computers 💻). I love some other cool stuffs as well, like paneer rolls, garlic bread 🍞 (prefer toasty a bit more you know), bike riding 🏍 (a bit more without moving traffic 🚦 though), experiencing digital entertainment 🎞 (more vividly listening to music 🎧) and sometimes wondering 💭 about how technology can bliss our lives (precisely, my life) 😋. So do follow me on github but be you. Gracias!
 
-<--
+<!--
 **su-brat/su-brat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
