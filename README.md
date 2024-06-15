@@ -1,6 +1,6 @@
 ### Namaste 🙏
 
-I am **Subrat Kumar Pattanaik**. Graduated in **Computer Science and Engineering**, I am a **persistent learner, problem solver, software developer and an analyst** by work. I love to code. **Python** is my current favourite programming language, though I have some working experience in **Javascript** and **Java**, starting my programming journey with **C++**.
+I am **Subrat Kumar Pattanaik**. Graduated in **Computer Science and Engineering** in the year 2021, I have role experiences as **Analyst** and **Software Engineer**. I have coding experience in **Javascript**, **Typescript** and **Python**. I also know **C++** and **Java**.
 
 <!--
 **su-brat/su-brat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
